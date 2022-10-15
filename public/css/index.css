@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.card button{
+    position: relative;
+    bottom: 10px;
+}

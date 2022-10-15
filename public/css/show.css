@@ -1,0 +1,10 @@
+span{
+    position:absolute;
+    top:10px;
+    right:20px;
+}
+.autor, .data-hora{
+    margin:0;
+    padding: 0;
+    color: rgb(88, 86, 86);
+}
